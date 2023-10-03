@@ -1,0 +1,16 @@
+#btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#old {
+  text-decoration: line-through;
+}
+
+.input {
+  opacity: 0;
+}
+
+/* #btn:active > #input {
+  opacity: 1;
+} */
